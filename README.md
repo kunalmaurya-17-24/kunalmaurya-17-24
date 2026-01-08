@@ -35,12 +35,6 @@ Building autonomous workflows and low-latency RAG systems. Focused on **LangGrap
 
 ---
 
-### 🔭 Currently Working On
-**Multimodal Audio RAG System** (Internship @ Frugal Explorations)
-* Benchmarking **Whisper vs. Wav2Vec** for edge-device latency.
-* Implementing **transformers.js** for client-side inference.
-* Fusing audio embeddings with text for metadata-filtered retrieval.
-
 ---
 
 [LinkedIn](https://www.linkedin.com/in/kunal-maurya-a58035304/) • [Email](mailto:kunalmaurya.mait@gmail.com)
