@@ -1,22 +1,26 @@
 # Hi, I'm Kunal Maurya.
 
-### 🤖 Agentic AI Engineer | Full-Stack Developer
-Building autonomous workflows and low-latency RAG systems. Focused on **LangGraph**, **Multimodal AI**, and **Production Engineering**.
+### 🤖 Agentic AI & Machine Learning Engineer
+Building autonomous workflows, RAG systems, and predictive models. Focused on **Production ML**, **LangGraph**, and **Data Engineering**.
 
 ---
 
-### 🛠️ The Stack (That Matters)
-**AI & Data:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### 🛠️ The Tech Stack
+**Generative AI & LLMs:**
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-**Backend & Ops:**
+**Classical Machine Learning:**
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Backend & MLOps:**
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
@@ -26,14 +30,17 @@ Building autonomous workflows and low-latency RAG systems. Focused on **LangGrap
 **1. [ATS Resume Tailoring Agent](https://github.com/kunalmaurya-17-24/ATS-Resume-Tailorer)**
 > *Autonomous agent that rewrites LaTeX resumes based on Job Descriptions.*
 > * **Tech:** Python, LangGraph, KeyBERT, Docker, FastAPI
-> * **Key Feature:** Reduced LLM token costs by 90% using hybrid extraction strategies.
+> * **ML Concept:** Used KeyBERT for semantic keyword extraction vs. standard regex.
 
 **2. [YouTube Multimodal RAG](https://github.com/kunalmaurya-17-24/youtube-rag)**
 > *Video Q&A agent capable of citing specific timestamps.*
 > * **Tech:** Python, ChromaDB, yt-dlp, Streamlit
-> * **Key Feature:** Solved context fragmentation with timestamp-aligned semantic chunking.
+> * **ML Concept:** Implemented semantic chunking to preserve temporal context.
 
----
+**3. [Loan Default Prediction Model]
+> *Predictive model to classify loan risk on high-dimensional tabular data.*
+> * **Tech:** Python, Scikit-Learn, XGBoost, Pandas
+> * **Performance:** Achieved top decile accuracy via rigorous feature engineering.
 
 ---
 
