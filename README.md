@@ -32,15 +32,18 @@ Building autonomous workflows, RAG systems, and predictive models. Focused on **
 > * **Tech:** Python, LangGraph, KeyBERT, Docker, FastAPI
 > * **ML Concept:** Used KeyBERT for semantic keyword extraction vs. standard regex.
 
-**2. [YouTube Multimodal RAG](https://github.com/kunalmaurya-17-24/youtube-rag)**
+**2. [Sentinel: Autonomous Financial Discipline Agent ](https://github.com/kunalmaurya-17-24/autonomous-sql-analyst-langgraph-crewai)**
+> **
+> * **Tech** CrewAI, LangGraph, Opik, Text-to-SQL, PostgreSQL
+> * **
+
+
+
+**3. [YouTube Multimodal RAG](https://github.com/kunalmaurya-17-24/youtube-rag)**
 > *Video Q&A agent capable of citing specific timestamps.*
 > * **Tech:** Python, ChromaDB, yt-dlp, Streamlit
 > * **ML Concept:** Implemented semantic chunking to preserve temporal context.
 
-**3. [Loan Default Prediction Model]
-> *Predictive model to classify loan risk on high-dimensional tabular data.*
-> * **Tech:** Python, Scikit-Learn, XGBoost, Pandas
-> * **Performance:** Achieved top decile accuracy via rigorous feature engineering.
 
 ---
 
