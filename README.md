@@ -39,7 +39,7 @@ Building autonomous workflows, RAG systems, and predictive models. Focused on **
 
 
 
-**3. [YouTube Multimodal RAG](https://github.com/kunalmaurya-17-24/youtube-rag)**
+**3. [YouTube Multimodal RAG](https://github.com/kunalmaurya-17-24/YouTube-Multimodal-RAG-Pipeline)**
 > *Video Q&A agent capable of citing specific timestamps.*
 > * **Tech:** Python, ChromaDB, yt-dlp, Streamlit
 > * **ML Concept:** Implemented semantic chunking to preserve temporal context.
